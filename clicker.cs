@@ -82,7 +82,7 @@ namespace ConsoleMouseApp
 
             while (true)
             {
-                
+                Thread.Sleep(45);
                 ReadConsoleInput(consoleHandle, out INPUT_RECORD record, 1, out uint eventsRead);
 
                 
