@@ -5,4 +5,4 @@ c# .net8.0
 Удачи в тесте моего поректа
 
 clicker.cs для мыши
-clicker_2.cs для клавы 2 версия норм
+clicker release для пробела
